@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Alvin</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_intent">IntentActivity</string>
+    <string name="title_activity_calculator">CalculatorActivity</string>
+    <string name="title_activity_simple_list">SimpleList</string>
+    <string name="title_activity_recycleview">Recycleview</string>
+    <string name="title_activity_fruits">Fruits</string>
+    <string name="title_activity_fruit_list">FruitList</string>
+    <string name="title_activity_fruit_list.kt">FruitList.kt</string>
+    <string name="title_activity_card">CardActivity</string>
+</resources>
